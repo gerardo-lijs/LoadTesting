@@ -1,7 +1,7 @@
 # Load Testing
 Simple methods to help you simulate CPU load. 
 
-Code in [(CPU.cs)](CPU.cs)
+Code in [CPU.cs](CPU.cs)
 
 Naming of methods and classes can/should be improved! Open for suggestions...
 
