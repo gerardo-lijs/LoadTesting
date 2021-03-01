@@ -18,5 +18,5 @@ await LoadTesting.CPU.SimulateExpensiveMethodAsync(15);
 Loads all available CPU cores to 100% by running an expensive operation (prime numbers) for the specified number of seconds. In this example 15 seconds.
 
 ```csharp
-LoadTesting.CPU.SimulateExpensiveMethodAsync(15);
+LoadTesting.CPU.SimulateExpensiveMethod(15);
 ```
